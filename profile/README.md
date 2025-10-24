@@ -6,7 +6,7 @@ Every detail of the MIDI device can be customized on the browser - without any k
 
 Check more on: [About MIDILLI Factory](https://midilli.tech/about-midilli/about-midilli-factory/)
 
-_We handle software, firmware, PCB design, hardware, and casing — all in-house._
+_We handle software, firmware, PCB design, hardware, and casing and all in-house._
 
 From rapid prototyping to white-label manufacturing, we provide complete end-to-end solutions for musicians, makers, and brands.
 
